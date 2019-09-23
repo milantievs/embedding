@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        422, 1644
+      ],
+      "tensorPath": "https://drive.google.com/uc?authuser=0&id=1AXYoCGZci7L1XlHJhYnwcKz--QS1kQ55&export=download",
+      "metadataPath": "https://drive.google.com/uc?authuser=0&id=11AfOifvMGuDSmwTaHLq0hHrUIKrArjJC&export=download"
+    }
+  ]
+}
